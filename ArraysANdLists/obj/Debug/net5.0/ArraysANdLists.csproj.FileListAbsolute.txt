@@ -1,0 +1,16 @@
+C:\Users\hlee0\OneDrive\Desktop\repos\ArraysANdLists\ArraysANdLists\bin\Debug\net5.0\ArraysANdLists.exe
+C:\Users\hlee0\OneDrive\Desktop\repos\ArraysANdLists\ArraysANdLists\bin\Debug\net5.0\ArraysANdLists.deps.json
+C:\Users\hlee0\OneDrive\Desktop\repos\ArraysANdLists\ArraysANdLists\bin\Debug\net5.0\ArraysANdLists.runtimeconfig.json
+C:\Users\hlee0\OneDrive\Desktop\repos\ArraysANdLists\ArraysANdLists\bin\Debug\net5.0\ArraysANdLists.runtimeconfig.dev.json
+C:\Users\hlee0\OneDrive\Desktop\repos\ArraysANdLists\ArraysANdLists\bin\Debug\net5.0\ArraysANdLists.dll
+C:\Users\hlee0\OneDrive\Desktop\repos\ArraysANdLists\ArraysANdLists\bin\Debug\net5.0\ArraysANdLists.pdb
+C:\Users\hlee0\OneDrive\Desktop\repos\ArraysANdLists\ArraysANdLists\obj\Debug\net5.0\ArraysANdLists.csproj.AssemblyReference.cache
+C:\Users\hlee0\OneDrive\Desktop\repos\ArraysANdLists\ArraysANdLists\obj\Debug\net5.0\ArraysANdLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlee0\OneDrive\Desktop\repos\ArraysANdLists\ArraysANdLists\obj\Debug\net5.0\ArraysANdLists.AssemblyInfoInputs.cache
+C:\Users\hlee0\OneDrive\Desktop\repos\ArraysANdLists\ArraysANdLists\obj\Debug\net5.0\ArraysANdLists.AssemblyInfo.cs
+C:\Users\hlee0\OneDrive\Desktop\repos\ArraysANdLists\ArraysANdLists\obj\Debug\net5.0\ArraysANdLists.csproj.CoreCompileInputs.cache
+C:\Users\hlee0\OneDrive\Desktop\repos\ArraysANdLists\ArraysANdLists\obj\Debug\net5.0\ArraysANdLists.dll
+C:\Users\hlee0\OneDrive\Desktop\repos\ArraysANdLists\ArraysANdLists\obj\Debug\net5.0\refint\ArraysANdLists.dll
+C:\Users\hlee0\OneDrive\Desktop\repos\ArraysANdLists\ArraysANdLists\obj\Debug\net5.0\ArraysANdLists.pdb
+C:\Users\hlee0\OneDrive\Desktop\repos\ArraysANdLists\ArraysANdLists\obj\Debug\net5.0\ArraysANdLists.genruntimeconfig.cache
+C:\Users\hlee0\OneDrive\Desktop\repos\ArraysANdLists\ArraysANdLists\obj\Debug\net5.0\ref\ArraysANdLists.dll
